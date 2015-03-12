@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
-
-##  About Us
 
 The Web Accessibility Group (WAG) at UGA began in May 2011. Our goal is to share and discuss strategies, techniques and resources for meeting Section 508 compliance as it pertains to websites and web content. We also seek to inform others throughout the University System of Georgia about relevant training seminars on web accessibility and provide information about the forthcoming Section 508 Refresh (an update of the existing Section 508 standards originally published in 1998). Our group is open to individuals at institutions throughout the University System of Georgia.
 
