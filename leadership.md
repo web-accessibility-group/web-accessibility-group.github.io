@@ -1,3 +1,8 @@
+---
+layout: default
+title: Leadership
+---
+
 # Leadership
 
 ##  Leaders
