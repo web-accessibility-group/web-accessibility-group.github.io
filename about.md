@@ -3,28 +3,14 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+##  About Us
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The Web Accessibility Group (WAG) at UGA began in May 2011. Our goal is to share and discuss strategies, techniques and resources for meeting Section 508 compliance as it pertains to websites and web content. We also seek to inform others throughout the University System of Georgia about relevant training seminars on web accessibility and provide information about the forthcoming Section 508 Refresh (an update of the existing Section 508 standards originally published in 1998). Our group is open to individuals at institutions throughout the University System of Georgia.
 
-There are currently two themes built on Poole:
+###  Background
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Section 508 of the Rehabilitation Act Amendments of 1998 requires that web-based information and data be equally accessible to individuals with and without disabilities. The Board of Regents of the University System of Georgia has determined that institutions under the Board of Regents fall within the scope of Section 508. Web designers and web content providers must ensure 508-compliance of their content prior to making it available via the worldwide web.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+###  Resources
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Please visit our [Resources page](/resources) for assistance in complying with Section 508. All are welcome to join the WAG listserv to post questions and learn about upcoming training opportunities on Section 508 compliance.
