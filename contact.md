@@ -1,6 +1,6 @@
 ---
-Layout: default
-Title: Contact Us
+layout: page
+title: Contact Us
 ---
 
 # Contact Us
