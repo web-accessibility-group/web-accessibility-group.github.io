@@ -1,3 +1,8 @@
+---
+layout: default
+title: Welcome
+---
+
 Our goal is to share and discuss strategies, techniques and resources for meeting Section 508 compliance as it pertains to websites and web content. [Find out more →](/about)
 
 ##  Monthly Meetings
