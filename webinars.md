@@ -3,8 +3,6 @@ layout: page
 title: Webinars
 ---
 
-# Webinars
-
 At this time we have two webinar topics: WAG Monthly Meetings and Online Webinar Dec 7, 2011
 
 ## **Monthly Meetings**
