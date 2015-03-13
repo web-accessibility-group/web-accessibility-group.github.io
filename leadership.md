@@ -3,8 +3,6 @@ layout: page
 title: Leadership
 ---
 
-# Leadership
-
 ##  Leaders
 
 * Janet Sylvia, CAES, Leader, jsylvia@uga.edu
