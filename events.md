@@ -53,7 +53,8 @@ Please visit [National Center for Disability and Access to Education (NCDAE)](ht
 
 ### Global Accessibility Awareness Day - May 9th, 2013
 
-[![Global Accessibility Awareness Day Logo](http://wikiwiki.uga.edu/wag/images/0/07/GAAD.jpg =200x)](https://www.facebook.com/globalaccessibilityawarenessday)
+> %img-right%
+> [![Global Accessibility Awareness Day Logo](http://wikiwiki.uga.edu/wag/images/0/07/GAAD.jpg =200x)](https://www.facebook.com/globalaccessibilityawarenessday)
 
 On **May 9**, we invite you to participate in [Global Accessibility Awareness Day](https://www.facebook.com/globalaccessibilityawarenessday) (GAAD). The purpose of the day is to get people talking, thinking and learning about digital accessibility and users with different disabilities.
 
