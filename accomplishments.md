@@ -3,8 +3,6 @@ layout: page
 title: Accomplishments
 ---
 
-# Accomplishments
-
 ## Goal: To share and discuss strategies, techniques and resources for meeting Section 508 compliance as it pertains to websites and web-based content:
 
 * Immediately expanded WAG to include USG statewide personnel, currently 62 members representing 12 institutions statewide;
