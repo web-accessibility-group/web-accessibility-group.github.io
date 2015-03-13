@@ -82,6 +82,11 @@ html {
   font-family: "Abril Fatface", serif;
   font-size: 2.25rem;
 }
+.sidebar-about h1 a,
+.sidebar-about h1 a:hover,
+.sidebar-about h1 a:active {
+  text-decoration: none;
+}
 
 /* Sidebar nav */
 .sidebar-nav {
