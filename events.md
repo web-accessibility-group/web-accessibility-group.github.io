@@ -35,7 +35,7 @@ On Thursday May 15, 2014 we invite you to participate in Global Accessibility Aw
 
 ## Georgia Accessibility Awareness Day (GAAD) - September 20th, 2013
 
-![Georgia Accessibility Awareness Day Logo](http://wikiwiki.uga.edu/wag/images/7/74/Ga_GAAD_Logo.png =200x)
+> %img-right% ![Georgia Accessibility Awareness Day Logo](http://wikiwiki.uga.edu/wag/images/7/74/Ga_GAAD_Logo.png =200x)
 
 Thanks so much to those who joined us as we celebrated Georgia Accessibility Awareness Day!
 
