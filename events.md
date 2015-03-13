@@ -7,7 +7,7 @@ title: Events
 
 ### 2014 Global Accessibility Awareness Day (GAAD)
 
-### _Designing Websites for All Users_ - May 15, 2014
+**_Designing Websites for All Users_ - May 15, 2014**
 
 On Thursday May 15, 2014 we invite you to participate in Global Accessibility Awareness Day (GAAD). The purpose of this day is to get people talking, thinking, and learning about website accessibility for all users. Join us for an in-person training event sponsored by the Web Accessibility Group (WAG).
 
@@ -33,7 +33,9 @@ On Thursday May 15, 2014 we invite you to participate in Global Accessibility Aw
 * Website Accessibility Challenges/Solutions (Panel Discussion)
 * This event is free; no registration required. Pay and Accessible parking is available in the Tate Center Parking Lot adjacent to the building. The University of Georgia is committed to providing access for all people. If you have accessibility concerns, please contact Janet Sylvia, jsylvia@uga.edu, 706-542-3936 by May 1 to request accommodations.
 
-## Georgia Accessibility Awareness Day (GAAD) - September 20th, 2013
+***
+
+### Georgia Accessibility Awareness Day (GAAD) - September 20th, 2013
 
 > %img-right%
 > ![Georgia Accessibility Awareness Day Logo](http://wikiwiki.uga.edu/wag/images/7/74/Ga_GAAD_Logo.png =200x)
@@ -51,6 +53,8 @@ You can also download the 4 files individually:
 
 Please visit [National Center for Disability and Access to Education (NCDAE)](http://www.ncdae.org/resources/cheatsheets/) website to access or download Cheatsheets with step-by-step instructions for making the following content accessible (available in this order on the website): Word and PowerPoint (Mac); Word and PowerPoint (Windows); PDF from Word, Acrobat XI and Acrobat X; Adobe InDesign; Creating Accessible Electronic Content; Identifying Web Accessibility Issues, and Captioning YouTube Video.
 
+***
+
 ### Global Accessibility Awareness Day - May 9th, 2013
 
 > %img-right%
@@ -59,6 +63,8 @@ Please visit [National Center for Disability and Access to Education (NCDAE)](ht
 On **May 9**, we invite you to participate in [Global Accessibility Awareness Day](https://www.facebook.com/globalaccessibilityawarenessday) (GAAD). The purpose of the day is to get people talking, thinking and learning about digital accessibility and users with different disabilities.
 
 For an hour that day, we invite you to experience digital accessibility firsthand: **turn off your computer speakers** and try accessing web-based videos; **turn off your monitor** and try accessing websites through hearing rather than sight; **unplug your mouse** and try navigating websites with only your keyboard; **remove semantic structure** and try understanding the contents of websites and web-based documents.
+
+***
 
 ### Online Webinar - December 7th, 2011
 
