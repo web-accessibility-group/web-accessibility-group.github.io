@@ -3,13 +3,11 @@ layout: page
 title: Events
 ---
 
-# Events
+## Past Events
 
-# Past Events
+### 2014 Global Accessibility Awareness Day (GAAD)
 
-## 2014 Global Accessibility Awareness Day (GAAD)
-
-## _Designing Websites for All Users_ - May 15, 2014
+### _Designing Websites for All Users_ - May 15, 2014
 
 On Thursday May 15, 2014 we invite you to participate in Global Accessibility Awareness Day (GAAD). The purpose of this day is to get people talking, thinking, and learning about website accessibility for all users. Join us for an in-person training event sponsored by the Web Accessibility Group (WAG).
 
@@ -52,7 +50,7 @@ You can also download the 4 files individually:
 
 Please visit [National Center for Disability and Access to Education (NCDAE)](http://www.ncdae.org/resources/cheatsheets/) website to access or download Cheatsheets with step-by-step instructions for making the following content accessible (available in this order on the website): Word and PowerPoint (Mac); Word and PowerPoint (Windows); PDF from Word, Acrobat XI and Acrobat X; Adobe InDesign; Creating Accessible Electronic Content; Identifying Web Accessibility Issues, and Captioning YouTube Video.
 
-## Global Accessibility Awareness Day - May 9th, 2013
+### Global Accessibility Awareness Day - May 9th, 2013
 
 [![GAAD Logo](http://wikiwiki.uga.edu/wag/images/0/07/GAAD.jpg)](https://www.facebook.com/globalaccessibilityawarenessday)
 
@@ -60,16 +58,16 @@ On **May 9**, we invite you to participate in [Global Accessibility Awareness Da
 
 For an hour that day, we invite you to experience digital accessibility firsthand: **turn off your computer speakers** and try accessing web-based videos; **turn off your monitor** and try accessing websites through hearing rather than sight; **unplug your mouse** and try navigating websites with only your keyboard; **remove semantic structure** and try understanding the contents of websites and web-based documents.
 
-## Online Webinar - December 7th, 2011
+### Online Webinar - December 7th, 2011
 
 The captioned webinar recording is available via the [USG iTunes channel](http://itunes.usg.edu). Select "Online Faculty Development Series 2011-2012, then you *must* select the Video tab (the default is to open a preview only unless you select the Video tab).
 
-### Handouts
+#### Handouts
 
 * [Section 508 Online Courses (pdf)](http://wikiwiki.uga.edu/wag/images/5/56/Section_508_Online_Courses_USG_2011-12-07.pdf)
 * [2011 Distance Education Accessibility Guidelines (pdf)](http://wikiwiki.uga.edu/wag/images/e/eb/2011_Distance_Education_Accessibility_Guidelines.pdf)
 
-### Section 508 Compliance and Online Course Content
+#### Section 508 Compliance and Online Course Content
 
 Section 508 requires that electronic and information technology be equally accessible to persons with and without disabilities. The Board of Regents of University System of Georgia has determined that institutions under the BOR fall within the scope of Section 508. In this session online, Janet will talk about how to design Section 508-compliant online courses including: course structure, color scheme, layout, navigation, hyperlinks, backgrounds, and images. She will also discuss strategies and resources for creating accessible course content: documents, audio-narrated presentations, and multimedia files (audio/video). This information applies whether you are placing course content on a website or within your online course.
 
