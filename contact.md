@@ -3,8 +3,6 @@ layout: page
 title: Contact Us
 ---
 
-# Contact Us
-
 For more information about the Web Accessibility Group (WAG), this website, or alternative formats for content available on this site, please contact any member of the WAG Leadership Team:
 
 [Janet Sylvia](mailto:jsylvia@uga.edu), jsylvia@uga.edu, Web Accessibility Group, Leader  
