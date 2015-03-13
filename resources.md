@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Resources
+title: Resources for creating 508-compliant content
+sidebar-title: Resources
 ---
-
-# Resources for creating 508-compliant content
 
 ## Training
 
