@@ -35,7 +35,7 @@ On Thursday May 15, 2014 we invite you to participate in Global Accessibility Aw
 
 ## Georgia Accessibility Awareness Day (GAAD) - September 20th, 2013
 
-[![Ga GAAD Logo.png](http://wikiwiki.uga.edu/wag/images/7/74/Ga_GAAD_Logo.png)](http://wikiwiki.uga.edu/wag/index.php/File:Ga_GAAD_Logo.png =200x)
+![Ga GAAD Logo.png](http://wikiwiki.uga.edu/wag/images/7/74/Ga_GAAD_Logo.png =200x)
 
 Thanks so much to those who joined us as we celebrated Georgia Accessibility Awareness Day!
 
@@ -52,7 +52,7 @@ Please visit [National Center for Disability and Access to Education (NCDAE)](ht
 
 ### Global Accessibility Awareness Day - May 9th, 2013
 
-[![GAAD Logo](http://wikiwiki.uga.edu/wag/images/0/07/GAAD.jpg)](https://www.facebook.com/globalaccessibilityawarenessday =200x)
+[![GAAD Logo](http://wikiwiki.uga.edu/wag/images/0/07/GAAD.jpg =200x)](https://www.facebook.com/globalaccessibilityawarenessday)
 
 On **May 9**, we invite you to participate in [Global Accessibility Awareness Day](https://www.facebook.com/globalaccessibilityawarenessday) (GAAD). The purpose of the day is to get people talking, thinking and learning about digital accessibility and users with different disabilities.
 
